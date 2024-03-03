@@ -1,5 +1,6 @@
 package arraysandslices
 
+// Passes all test
 func Sum(numbers []int) int {
 	sum := 0
 
